@@ -88,7 +88,6 @@ lxml==4.4.1
 MarkupSafe==1.1.1
 matplotlib==3.1.1
 mccabe==0.6.1
-menuinst==1.4.16
 mistune==0.8.4
 mkl-fft==1.0.14
 mkl-random==1.1.0
@@ -98,7 +97,6 @@ more-itertools==7.2.0
 mpmath==1.1.0
 msgpack==0.6.1
 multipledispatch==0.6.0
-navigator-updater==0.2.1
 nbconvert==5.6.0
 nbformat==4.4.0
 networkx==2.3
@@ -129,7 +127,6 @@ pluggy==0.13.0
 ply==3.11
 prometheus-client==0.7.1
 prompt-toolkit==2.0.10
-psutil==5.6.3
 py==1.8.0
 pycodestyle==2.5.0
 pycosat==0.6.3
